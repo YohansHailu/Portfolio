@@ -1,0 +1,23 @@
+.company {
+  text-decoration: none;
+  text-decoration-skip-ink: auto;
+  position: relative;
+  transition: var(--transition);
+  display: flex;
+  -webkit-box-align: center;
+  align-items: center;
+  width: 100%;
+  height: var(--tab-height);
+  padding: 20px 20px 2px;
+  border-left: 2px solid var(--lightest-navy);
+  background-color: transparent;
+  color: var(--slate);
+  /* font-family: var(--font-mono); */
+  /* font-size: var(--fz-xs); */
+  text-align: left;
+  white-space: nowrap;
+}
+
+.company:hover {
+  border-color: var(--green);
+}
