@@ -143,7 +143,7 @@ const HeroComponent = () => {
       </div>
       <div className="fadeup-enter-done transition delay-400 my-5 w-full text-xs lg:text-base lg:w-3/5 tracking-wide leading-6">
         <p className="text-slate text-xs sm:text-sm">
-          Hey there! I'm a software developer with a passion for problem-solving and learning. From web development to mobile and backend, I love diving into new technologies. I thrive in fast-paced environments where quality is key. Let's work together to create something amazing!
+          Hey there! I&aposm a software developer with a passion for problem-solving and learning. From web development to mobile and backend, I love diving into new technologies. I thrive in fast-paced environments where quality is key. Let&apos  s work together to create something amazing!
         </p>
       </div>
       <div className="relative inline-flex group fadeup-enter-done transition duration-500 my-10">
